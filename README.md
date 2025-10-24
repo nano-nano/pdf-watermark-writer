@@ -16,6 +16,8 @@
 
 ドラフト版（DRAFT）や、極秘（Confidential）など、重ね合わせる透かし画像は選択できます。
 
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/1ca860b2-9022-4d06-96d8-6392575c280f" />
+
 ## 機能
 
 - 起動後表示されるウィンドウの所定領域にPDFファイルをドラッグ＆ドロップするか、ファイル選択すると自動的に透かし画像を重ね合わせたPDFファイルを生成します
